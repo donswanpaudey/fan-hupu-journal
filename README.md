@@ -1,2 +1,14 @@
 # fan-hupu-journal
-HTML page archive and documentation
+
+静态页面保存仓库
+
+本仓库用于整理 HTML 页面输出结果，并保留对应的仓库说明。
+
+## 发布文件
+
+- 新页面会作为 HTML 文件追加
+- 已有文件以仓库提交记录为准
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
